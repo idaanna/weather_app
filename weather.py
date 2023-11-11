@@ -133,7 +133,6 @@ def find_min(weather_data):
     Returns:
         The maximum value and it's position in the list.
     """
-    pass
 def find_max(weather_data):
     if weather_data == []:
         return ()
@@ -198,7 +197,6 @@ def generate_daily_summary(weather_data):
     Returns:
         A string containing the summary information.
     """
-    pass
 
     return daily_summary
     
